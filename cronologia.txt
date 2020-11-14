@@ -1,3 +1,37 @@
 Instalacion de WAmp, dreamwever.
 armado de imagenes para presentacion.
 custom , archivo style.css(al final "max-width: 1024px)", de css3 menu.
+
+
+
+
+
+---------
+
+
+
+C:\wamp\www>git add -A
+warning: LF will be replaced by CRLF in CSS3 Menu.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in debug.log.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in engine1/jquery.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in engine1/script.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in engine1/style.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in engine1/style.mod.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in engine1/wowslider.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in engine1/wowslider.mod.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in engine1/ws-ctrl-material.svg.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index.php.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in wowslider.html.
+The file will have its original line endings in your working directory
+
+C:\wamp\www>git status
