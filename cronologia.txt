@@ -1,0 +1,3 @@
+Instalacion de WAmp, dreamwever.
+armado de imagenes para presentacion.
+custom , archivo style.css(al final "max-width: 1024px)", de css3 menu.
