@@ -1,11 +1,11 @@
 # Repositorio del Trabajo Final de Graduación de Licenciatura en Informática
 
-# Titulo
+# Título
 Sistema de tienda virtual con foco en seguridad de la información
 
 # Instalación
 
-Al dia de la fecha, el prototipo de la aplicación no está desarrollado completamente, pero se encuentra en desarrollo para la defensa oral. 
+Al día de la fecha, el prototipo de la aplicación no está desarrollado completamente, pero se encuentra en desarrollo para la defensa oral. 
 Para poder ejecutarla de forma local, se necesita previamente instalar WampServer, en el cual debe contener:
 1. Apache
 2. PHP
